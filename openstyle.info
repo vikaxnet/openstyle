@@ -1,0 +1,11 @@
+Name=openstyle
+Description= Responsive drupal template biult for task one . open charity organisation website By Vincent Victor
+core =7.x
+
+stylesheets[all][] = css/mystyle.css
+
+
+
+regions[page_top] = Page Top
+regions[content] = Content
+regions[page_bottom] = Page Bottom
